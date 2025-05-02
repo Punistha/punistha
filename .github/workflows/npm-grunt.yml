@@ -28,6 +28,3 @@ jobs:
 
     - name: Build
       run: npm run build
-
-    - name: Run grunt tasks
-      run: grunt
